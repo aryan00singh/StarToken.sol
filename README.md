@@ -1,7 +1,7 @@
-Star_Token
+# Star_Token
 This solidity program "StarToken" is a simple program which imitates the token creation (minting and burning coins) process on my local Blockchain
 
-Description
+# Description
 The program consists of:
 
 3 public state variables which will provide the token name, token abbreviation and total supply for my token.
